@@ -7,7 +7,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <?php include './includes/links.php'; ?>
-    <title>Home | Mobile Shoppee</title>
+    <title>Home | Mobile Shope</title>
 </head>
 <body>
     <!-- Header -->
